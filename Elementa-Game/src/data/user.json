@@ -1,0 +1,13 @@
+{
+    "allusers": [
+        {
+            "userName": "JohnDoe",
+            "password": "$2b$12$9BnpvrHIEG9/HkmSQo96.uG5HbLYKoYxksiDFWBgEi495xf4yHfla",
+            "userData": [
+                {
+                    "element": "Fire"
+                }
+            ]
+        }
+    ]
+}
